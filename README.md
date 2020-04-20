@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
     udacity-cloudformation
-</h2>
+</h1>
 
 <p align="center">
     This project is a challenge of <a href="https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991">Cloud DevOps Engineer Nanodegree Program</a> from Udacity, is to create a test environment for the Udagram application using CloudFormation.
