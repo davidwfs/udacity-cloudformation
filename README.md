@@ -17,6 +17,8 @@ These instructions will get you a copy of the project up and running on your aws
 
 ### Prerequisites
 
+To interact with CloudFormation do you need:
+
 * [aws-cli](https://github.com/aws/aws-cli) to interact with CloudFormation.
 * [IAM](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/introduction.html) to interact with CloudFormation.
 
